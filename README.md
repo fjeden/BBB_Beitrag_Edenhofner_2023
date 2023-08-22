@@ -1,4 +1,6 @@
 # BBB_2023
+In diesem Repository finden Sie die Skripte und ChatGPT-Dialoge zum Konferenzbeitrag von Fabian Edenhofner im Rahmen des 32.BBB-Assistent:innentreffen.
+Gemäß der Fallstudie des Beitrages ist das Respository untergliedert in die Strategie 1 sowie Strategie 2.
 
 ## Strategie 1
 [Zum Dialog](https://chat.openai.com/share/a0f56009-941f-46bc-968a-70fcccb28352)
