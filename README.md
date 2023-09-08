@@ -7,5 +7,6 @@ Gemäß der Fallstudie des Beitrages ist das Respository untergliedert in die St
 
 ## Strategie 2
 [Zum Dialog](https://chat.openai.com/share/275d8cbd-02c9-40c9-89df-540fb31b70ea)
+> [!NOTE]
+> Aufgrund der Dateigröße konnte das ausführbare Programm der Strategie 2 nicht angehangen werden. Dieses lässt sich jedoch gemäß der Angaben des verlinkten Chatdialogs erzeugen.
 
-Aufgrund der Dateigröße konnte das ausführbare Programm der Strategie 2 nicht angehangen werden. Dieses lässt sich jedoch gemäß der Angaben des verlinkten Chatdialogs erzeugen.
